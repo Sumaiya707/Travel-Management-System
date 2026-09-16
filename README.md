@@ -4,7 +4,7 @@ A database-driven web application developed using **PHP, MySQL, HTML, CSS, and B
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **Travel Management System** is a web-based application that simplifies the process of managing and presenting travel-related information.
 
@@ -14,7 +14,7 @@ This project was developed as a PHP and MySQL-based web application with Bootstr
 
 ---
 
-## ✨ Features
+##  Features
 
 ### 👤 User Features
 
